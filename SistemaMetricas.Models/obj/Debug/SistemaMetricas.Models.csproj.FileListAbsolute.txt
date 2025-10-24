@@ -1,0 +1,12 @@
+C:\Users\Zenbook\source\repos\SistemaMetricas\SistemaMetricas.Models\bin\Debug\SistemaMetricas.Models.dll
+C:\Users\Zenbook\source\repos\SistemaMetricas\SistemaMetricas.Models\bin\Debug\SistemaMetricas.Models.pdb
+C:\Users\Zenbook\source\repos\SistemaMetricas\SistemaMetricas.Models\obj\Debug\SistemaMetricas.Models.csproj.AssemblyReference.cache
+C:\Users\Zenbook\source\repos\SistemaMetricas\SistemaMetricas.Models\obj\Debug\SistemaMetricas.Models.csproj.CoreCompileInputs.cache
+C:\Users\Zenbook\source\repos\SistemaMetricas\SistemaMetricas.Models\obj\Debug\SistemaMetricas.Models.dll
+C:\Users\Zenbook\source\repos\SistemaMetricas\SistemaMetricas.Models\obj\Debug\SistemaMetricas.Models.pdb
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\SistemaMetricas.Models\bin\Debug\SistemaMetricas.Models.dll
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\SistemaMetricas.Models\bin\Debug\SistemaMetricas.Models.pdb
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\SistemaMetricas.Models\obj\Debug\SistemaMetricas.Models.csproj.AssemblyReference.cache
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\SistemaMetricas.Models\obj\Debug\SistemaMetricas.Models.csproj.CoreCompileInputs.cache
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\SistemaMetricas.Models\obj\Debug\SistemaMetricas.Models.dll
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\SistemaMetricas.Models\obj\Debug\SistemaMetricas.Models.pdb

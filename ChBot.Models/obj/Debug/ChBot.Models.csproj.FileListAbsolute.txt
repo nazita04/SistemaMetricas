@@ -1,0 +1,6 @@
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\ChBot.Models\bin\Debug\ChBot.Models.dll
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\ChBot.Models\bin\Debug\ChBot.Models.pdb
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\ChBot.Models\obj\Debug\ChBot.Models.csproj.AssemblyReference.cache
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\ChBot.Models\obj\Debug\ChBot.Models.csproj.CoreCompileInputs.cache
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\ChBot.Models\obj\Debug\ChBot.Models.dll
+C:\Users\Naza\source\repos\SistemaMetricasTP2\SistemaMetricas\ChBot.Models\obj\Debug\ChBot.Models.pdb

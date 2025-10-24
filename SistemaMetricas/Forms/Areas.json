@@ -1,0 +1,34 @@
+﻿[
+  {
+    "Type": "ComboBox",
+    "Control": "txtArea",
+    "Label": "Area",
+    "Oblogatorio": "S",
+    "Coleccion": "Tecnologia;Desarrollo;Marketing",
+    "Columna": "Area"
+  },
+  {
+    "Type": "TextBox",
+    "Control": "txtDescripcion",
+    "Label": "Descripcion",
+    "Oblogatorio": "S",
+    "Coleccion": "",
+    "Columna": "Descripcion"
+  },
+  {
+    "Type": "Date",
+    "Control": "txtFecha",
+    "Label": "Fecha Alta",
+    "Oblogatorio": "S",
+    "Coleccion": "",
+    "Columna": "FechaAlta"
+  },
+  {
+    "Type": "ComboBox",
+    "Control": "txtEstado",
+    "Label": "Estado",
+    "Oblogatorio": "S",
+    "Coleccion": "V;C",
+    "Columna": "Estado"
+  }
+]

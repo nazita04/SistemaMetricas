@@ -1,0 +1,44 @@
+[
+  {
+    "PalabrasClave": [ "hola", "saludos", "buenos", "dias", "buenas", "tardes", "como", "cuando" ],
+    "Respuesta": "Hola!, En que puedo ayudarte hoy?",
+    "Accion": "",
+    "Param": "",
+    "Funcion": ""
+  },
+  {
+    "PalabrasClave": [ "chau", "saludos", "buenos", "hasta", "luego", "adios", "bay" ],
+    "Respuesta": "Hasta la Proxima!",
+    "Accion": "",
+    "Param": "",
+    "Funcion": ""
+  },
+  {
+    "PalabrasClave": [ "para", "que", "sirve", "funcion", "cumple", "la", "aplicacion" ],
+    "Respuesta": "la aplicacion se encarga de la generacion de tickets, ademas de que se agregan funcionalidades como el login y configuracion de abm",
+    "Accion": "",
+    "Param": "",
+    "Funcion": ""
+  },
+  {
+    "PalabrasClave": [ "te", "quiero", "consultar", "tengo", "una", "pregunta" ],
+    "Respuesta": "Seguro, que puedo ofrecerte?",
+    "Accion": "",
+    "Param": "",
+    "Funcion": ""
+  },
+  {
+    "PalabrasClave": [ "hora", "atencion", "horario", "que", "dias" ],
+    "Respuesta": "Nuestros Horarios de atención, son; de lunes a sábado de 7hs a 23hs ",
+    "Accion": "",
+    "Param": "",
+    "Funcion": ""
+  },
+  {
+    "PalabrasClave": [ "tickets", "tipos", "estado", "en que estado se encuentra", "cual es el estado" ],
+    "Respuesta": "Los Tickets se dividen en diferentes estados; Pendiente, Terminado, En_Curso y Rechazado",
+    "Accion": "",
+    "Param": "",
+    "Funcion": ""
+  }
+]
